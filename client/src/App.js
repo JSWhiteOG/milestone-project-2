@@ -20,7 +20,7 @@ function App() {
         </a>
         <p>Drake</p>
         <p>HAHHAHAHAHA</p>
-        <p>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p>
+        <p>AAAAAAAAAAAAAAAA :)</p>
       </header>
     </div>
   );
